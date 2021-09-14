@@ -1,0 +1,1 @@
+# Spectral-Class-Prediction-Algorithm
